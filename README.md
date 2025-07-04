@@ -87,6 +87,53 @@ LIMIT 5;
 |4|"CNX Coal Resources, LP"|
 |5|"Coca-Cola Enterprises, Inc."|
 
+## 2. Project brief
+ Project brief
+You are required to analyze the data to answer the given questions and compile a comprehensive report in the repository on Github, which includes the following:
+
+[❗mandatory] Logical division using headers of different levels.
+[❗mandatory] Listings of SQL queries.
+[❗mandatory] Tables with the results of SQL queries.
+[❗mandatory] Text explanations for the executed queries.
+[❗mandatory] Conclusions and insights based on the obtained database responses.
+(where you can identify potentially useful insights, interesting facts, or patterns; for example, upon closer examination, it can be observed that the "Pharmaceuticals, Biotechnology & Life Sciences" industry is one of the leaders in carbon emissions - "Now we know what our health comes at.").
+Additional requirements
+[❗mandatory] The project report should begin with a description of the task and an overview of the tables (SQL query to each table for selecting all columns for the first 5-10 rows).
+[❗mandatory] All fractional values should be rounded to 2 decimal places.
+Optional points
+[⭐️optional] Illustrations such as photographs (e.g., cover photo at the beginning of the report), graphs (e.g., graphs generated using MS Excel or Google Sheets based on data), diagrams (database schema), and others.
+[⭐️optional] Any additional research and conclusions are welcome. For example:
+Research of carbon emissions over continents.
+Checking correlations, such as the correlation between product weight and carbon emissions levels.
+Exploring the environmental friendliness of industrial sectors.
+🛠️ Tools to use
+To execute this project, you are encouraged to utilize any tools they find useful without limitations.
+
+However, we have prepared a set of tools that will greatly assist them in completing the project:
+
+Online SQL Console: Link to SQL Console
+(⚠️ Note that at the bottom of the SQL console, there is a panel for conveniently generating Markdown code, which will aid you in report formatting for Github).
+
+Online Markdown Editor: Link to Markdown Editor
+(This editor is ideal for writing and formatting Markdown code for the report. It features a toolbar for quick text formatting in Markdown, even if the student is not proficient in writing Markdown code independently.
+⚠️ Additionally, it is recommended to write the report in this editor, as it saves the code every second, preventing situations where the student accidentally loses their work without saving).
+
+You can also connect to the database and execute queries using any MySQL-compatible client, including DBeaver.
+
+ 
+
+Connection details for a database client 
+(only if you decided not to use online console, that is highly discouraged): 
+
+Host/Server	112.213.86.31
+Port	3360
+Username	marshmallow
+Password	N3unkNbXQYh33og
+Database	carbon_emissions
+
+## 3. Questions to research
+
+1. Which products contribute the most to carbon emissions? 
 
 
 
